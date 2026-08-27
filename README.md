@@ -47,3 +47,6 @@ The model detects all four damage categories and shows strong generalization for
 ## Conclusion
 
 A functional chimney damage segmentation system was built using YOLOv8, demonstrating the viability of deep learning for automating structural inspection.
+
+-------
+NOTE: Cannot share more data because data privacy has to be maintained
